@@ -1,0 +1,33 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo powered by many popular framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishgh/todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "jellyfishgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishgh/todo/issues"
+  },
+  "homepage": "https://github.com/jellyfishgh/todo#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "vue": "^2.1.10"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.2"
+  }
+}
